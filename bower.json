@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "authors": [
+    "Vladimir Levin <Vladimir_Levin@epam.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
